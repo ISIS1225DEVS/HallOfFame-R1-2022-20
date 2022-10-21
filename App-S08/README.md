@@ -1,5 +1,5 @@
 # INTEGRANTES
 
-1. Req 3 - Cesar Avellaneda c.avellanedac@uniandes.edu.co
-2. Req 4 - Nicolas Casas n.casasi@uniandes.edu.co
-3. Req 5 - Esteban Castelblanco e.castelblanco@uniandes.edu.co
+1. Cesar Avellaneda, Requerimiento 4
+2. Nicolas Casas, Requerimiento 5
+3. Esteban Castelblanco, Requerimiento 6
