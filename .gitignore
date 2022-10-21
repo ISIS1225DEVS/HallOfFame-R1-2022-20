@@ -136,11 +136,10 @@ dmypy.json
 
 #Python Cache
 #Data
+!Data/Streaming/amazon_prime_titles-utf8-small.csv
+!Data/Streaming/disney_plus_titles-utf8-small.csv
+!Data/Streaming/hulu_titles-utf8-small.csv
+!Data/Streaming/netflix_titles-utf8-small.csv
 *.csv
 *.zip
-!Data\Streaming\amazon_prime_titles-utf8-small.csv
-!Data\Streaming\disney_plus_titles-utf8-small.csv
-!Data\Streaming\hulu_titles-utf8-small.csv
-!Data\Streaming\netflix_titles-utf8-small.csv
-
 .vim
